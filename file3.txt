@@ -1,4 +1,6 @@
 this is the first line
 this is the second line
-this is the third line
+this is the third line adding docker creds
 this is the fourth line
+Welcome to AWS plateform
+Welcome to Azur plateform
