@@ -4,3 +4,7 @@ this is the third line adding docker creds
 this is the fourth line
 Welcome to AWS plateform
 Welcome to Azur plateform
+this is the third line
+this is the fourth line
+Welcome to Devops plateform
+Welcome to Kubernetis plateform
